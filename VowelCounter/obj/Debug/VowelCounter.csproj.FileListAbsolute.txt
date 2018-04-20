@@ -1,0 +1,7 @@
+D:\C#\VowelCounter\VowelCounter\obj\Debug\VowelCounter.csprojResolveAssemblyReference.cache
+D:\C#\VowelCounter\VowelCounter\obj\Debug\VowelCounter.csproj.CoreCompileInputs.cache
+D:\C#\VowelCounter\VowelCounter\bin\Debug\VowelCounter.exe.config
+D:\C#\VowelCounter\VowelCounter\bin\Debug\VowelCounter.exe
+D:\C#\VowelCounter\VowelCounter\bin\Debug\VowelCounter.pdb
+D:\C#\VowelCounter\VowelCounter\obj\Debug\VowelCounter.exe
+D:\C#\VowelCounter\VowelCounter\obj\Debug\VowelCounter.pdb
